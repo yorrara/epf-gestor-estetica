@@ -1,8 +1,9 @@
 [
     {
         "id": 1,
-        "name": "UsuÃ¡rio Teste",
-        "email": "uduarioteste@email.com",
-        "birthdate": "1999-10-21"
+        "name": "Rayca",
+        "email": "rayca@example.com",
+        "senha": "nova123",
+        "tipo": "normal"
     }
 ]
