@@ -1,6 +1,8 @@
 from bottle import Bottle
 from config import Config
 
+
+
 class App:
     def __init__(self):
         self.bottle = Bottle()
@@ -26,3 +28,4 @@ class App:
 
 def create_app():
     return App()
+ 

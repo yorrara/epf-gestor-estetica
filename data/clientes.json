@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Maria",
+        "telefone": "99999-9999",
+        "email": "maria@email.com",
+        "preferencias": [
+            "massagem relaxante"
+        ],
+        "historico_atendimentos": []
+    },
+    {
+        "id": 2,
+        "nome": null,
+        "telefone": null,
+        "email": null,
+        "preferencias": [],
+        "historico_atendimentos": []
+    }
+]
